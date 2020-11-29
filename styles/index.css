@@ -1,0 +1,48 @@
+.div{
+	font-family: sans-serif;
+}
+
+.centa-tex{
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+	text-decoration: none;
+}
+
+.proj{
+	background-color: #FFFFFF;
+	border: none;
+	padding: 5px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+	position: absolute;
+	right: 100px; 
+	top: 30px;
+}
+
+.link{
+	color: white;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+.cool-box{
+	padding: 2px;
+	background-color: #FFFFFF;
+	border: none;
+	color: black;
+	display: inline-block;
+}
+
+.cont{
+	padding: 5px;
+	background: #FFFFFF;
+	text-decoration: none;
+	font-family: sans-serif;
+	border: none;
+	color: black;
+	position: absolute;
+	top: 30px;
+	right: 225px;
+}
