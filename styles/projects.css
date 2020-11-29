@@ -1,0 +1,30 @@
+.link{
+	font-family: sans-serif;
+	text-decoration: none;
+	color: black;
+	background-color: #FFFFFF;
+	padding: 2px;
+}
+
+.mp{
+	font-family: sans-serif;
+	color: white;
+	background-color: #2c302c;
+	text-decoration: none;
+}
+
+body{
+	background-color: #2c302c;
+}
+
+.proj{
+	padding: 5px;
+	display: inline-block;
+	background-color: #FFFFFF;
+	color: black;
+	font-family: sans-serif;
+}
+
+.centa-tex{
+	text-align: center;
+}
