@@ -30,3 +30,16 @@ h1{
 	color: black;
 	font-family: sans-serif;
 }
+.discord{
+	margin-top: 15px;
+}
+.git{
+	margin-top: 15px;
+}
+.twit{
+	margin-top: 15px;
+}
+.link:hover{
+	background-color: #50C878;
+	transition: .3s ease;
+}
